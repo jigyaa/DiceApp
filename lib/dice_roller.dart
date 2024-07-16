@@ -38,7 +38,7 @@ class _DiceRollerState extends State<DiceRoller> {
                   fontSize : 20,
                   ),
                 ),
-              child: const Text('Roll The Dice'))
+              child: const Text('Click Here To Roll The Dice'))
             ],
 
           );
